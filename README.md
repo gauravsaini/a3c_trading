@@ -1,4 +1,4 @@
-# A3C trading
+# A3C trading Test
 Trading with recurrent actor-critic reinforcement learning - check [paper](https://arxiv.org/abs/2002.11523)
 
 ![Full_UML](supply_materials/Full_UML.png)
